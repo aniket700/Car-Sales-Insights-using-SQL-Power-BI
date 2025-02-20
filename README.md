@@ -7,3 +7,7 @@ This project provides an end-to-end analysis of car sales data using SQL for dat
  Customer Insights – Analyzing customer demographics and payment preferences.
  Power BI Dashboard – Interactive charts and graphs for data-driven decisions.
 
+
+
+
+C:\Users\anike\OneDrive\Pictures\Screenshots\Screenshot (35).png

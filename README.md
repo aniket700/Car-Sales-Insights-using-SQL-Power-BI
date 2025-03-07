@@ -9,5 +9,4 @@ This project provides an end-to-end analysis of car sales data using SQL for dat
 
 
 
-
-C:\Users\anike\OneDrive\Pictures\Screenshots\Screenshot (35).png
+C:\Users\anike\OneDrive\Pictures\Screenshots\Screenshot (36).png
